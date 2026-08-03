@@ -60,6 +60,14 @@ Here's a novel case — not one we discussed. Reason it out cold:
 
 Answer in your own words. If you reason cleanly to the mode-covering-vs-seeking consequences and connect them to the physical artifacts, you own this.
 
+Response:
+
+a.) It will blur the three conformers. This means samples will likely not represent any of the three wells, but some "blurry" combination of them. 
+
+b.) q will "snap" to one of the wells. Now sampling will return likely only one of the conformers with the others excluded. 
+
+c.) The reverse. This will force q to "snap" to one of the wells which will result in physical, if limited, predictions.
+
 ---
 
 ## Topic 2: Change of Variables & Why $|\det J|$
@@ -117,3 +125,9 @@ A novel case, cold:
 > **(c)** One sentence: if instead $x = f(z) = z^2$, would $p_x(x)$ be constant over its range or not — and what feature of the map decides that?
 
 Part (c) is the one that tests whether you've got the local nature of the rescaling.
+
+Response:
+
+a.) $p_x(x) = \frac{1}{2}$. The mass is the integral over the range. Since the uniform distribution is just a rectangle, the height times range must = 1 (previous mass must be conserved, and as required by probability densities).
+
+b.)  
